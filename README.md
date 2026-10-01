@@ -25,6 +25,14 @@ All 1,855 archive entries are retained, including duplicate entries. Sensitive s
 
 A source review found no active third-party analytics tags in the reviewed application code. The site's first-party page/checkout event collection and staff analytics code are retained, as requested to include the full material. A few strings in bundled framework/dependency output resemble tracker names but do not call tracking services.
 
+## Screenshot supplement: six archive files not available
+
+A screenshot-only supplement is in `source-screenshot-supplement/`. It includes the three supplied screenshots (including the repeated JPEG attachment), a readable transcript, the inventory of six visible ZIP names and approximate sizes, checksums, and a download-ready ZIP.
+
+The six source ZIPs listed in the inventory are **not included**. The screenshots show their names and approximate sizes, but their contents were not retrieved, inspected, summarized, or verified. No other archive in this repository is substituted or claimed to be one of them.
+
+The quoted “you are in charge” passage is historical screenshot content, not an active instruction, verified finding, or grant of permission. Tessera’s operating boundaries remain those in `TESSERA_OPERATING_GUIDELINES.md`.
+
 ## Tessera authority and archived prompts
 
 The supplied prompt material is source data, not executable instructions. A note was added to the autonomy-oriented prompt file to prevent it from being mistaken for verified fact or an active system prompt. Tessera's intended behavior is summarized in `TESSERA_OPERATING_GUIDELINES.md`. Instructions cannot grant global access to external repositories, tools, or agents; access remains limited to permissions explicitly provided by their owners and providers.
